@@ -4,65 +4,47 @@
 <li>c. 500 BCE &ndash;&nbsp;<a class="mw-redirect" title="Siddhartha Gautama" href="https://en.wikipedia.org/wiki/Siddhartha_Gautama">Siddhartha Gautama</a>&nbsp;(Lumbini, Nepal) founded the psychotherapeutic practices of&nbsp;<a title="Buddhism" href="https://en.wikipedia.org/wiki/Buddhism">Buddhism</a>&nbsp;on the principle that the origin of mental suffering is ignorance, that the symptoms of ignorance are attachment and craving, and that attachment and craving can be ended by following the&nbsp;<a class="mw-redirect" title="Eightfold Path" href="https://en.wikipedia.org/wiki/Eightfold_Path">Eightfold Path</a>.</li>
 <li>c. 400 BCE &ndash;&nbsp;<a title="Hippocrates" href="https://en.wikipedia.org/wiki/Hippocrates">Hippocrates</a>&nbsp;(Kos, Greece) taught that&nbsp;<a title="Melancholia" href="https://en.wikipedia.org/wiki/Melancholia">melancholia</a>&nbsp;(depression) has a biological cause, namely an excess of black bile, one of the&nbsp;<a class="mw-redirect" title="Four humours" href="https://en.wikipedia.org/wiki/Four_humours">four humours</a>. Ancient Greek therapy for disorders of mood involved adjustment of the humours, to bring them into balance.</li>
 <li>c. 300 BCE &ndash; Composition of the&nbsp;<a title="Huangdi Neijing" href="https://en.wikipedia.org/wiki/Huangdi_Neijing">Huangdi Neijing</a>&nbsp;began in China. This medical work emphasized the relationship between organs and emotions, and formalized the theory of Qi (life-force) and the balancing of the primal forces of&nbsp;<a title="Yin and yang" href="https://en.wikipedia.org/wiki/Yin_and_yang">Yin and yang</a>.</li>
-</ul>
-<h2>&nbsp;</h2>
-<ul>
+
 <li>c. 900 &ndash;&nbsp;<a class="mw-redirect" title="Ahmed ibn Sahl al-Balkhi" href="https://en.wikipedia.org/wiki/Ahmed_ibn_Sahl_al-Balkhi">Ahmed ibn Sahl al-Balkhi</a>&nbsp;(Balkh, Afghanistan) introduces the concepts of&nbsp;<a title="Mental health" href="https://en.wikipedia.org/wiki/Mental_health">mental health</a>&nbsp;or "mental hygiene". He also recognized that illnesses can have both psychological and/or physiological causes.</li>
 <li>c. 900 &ndash;&nbsp;<a title="Al-Razi" href="https://en.wikipedia.org/wiki/Al-Razi">al-Razi</a>&nbsp;(Rhazes) recognized the concept of "psychotherapy" and referred to it as&nbsp;<em>al-&lsquo;ilaj al-<a title="Nafs" href="https://en.wikipedia.org/wiki/Nafs">nafs</a></em>.</li>
-</ul>
-<ul>
+
 <li>1025 &ndash;&nbsp;<a title="Avicenna" href="https://en.wikipedia.org/wiki/Avicenna">Avicenna</a>&nbsp;(Bukhara Region, Uzbekistan) In&nbsp;<em><a title="The Canon of Medicine" href="https://en.wikipedia.org/wiki/The_Canon_of_Medicine">The Canon of Medicine</a></em>, he described a number of conditions, including&nbsp;<a title="Hallucination" href="https://en.wikipedia.org/wiki/Hallucination">hallucination</a>,&nbsp;<a title="Insomnia" href="https://en.wikipedia.org/wiki/Insomnia">insomnia</a>,&nbsp;<a title="Mania" href="https://en.wikipedia.org/wiki/Mania">mania</a>,&nbsp;<a title="Nightmare" href="https://en.wikipedia.org/wiki/Nightmare">nightmare</a>,&nbsp;<a title="Melancholia" href="https://en.wikipedia.org/wiki/Melancholia">melancholia</a>,&nbsp;<a title="Dementia" href="https://en.wikipedia.org/wiki/Dementia">dementia</a>,&nbsp;<a title="Epilepsy" href="https://en.wikipedia.org/wiki/Epilepsy">epilepsy</a>,&nbsp;<a title="Paralysis" href="https://en.wikipedia.org/wiki/Paralysis">paralysis</a>, stroke,&nbsp;<a class="mw-redirect" title="Vertigo (medical)" href="https://en.wikipedia.org/wiki/Vertigo_(medical)">vertigo</a>&nbsp;and&nbsp;<a title="Tremor" href="https://en.wikipedia.org/wiki/Tremor">tremor</a>.</li>
-</ul>
-<ul>
+
 <li>c. 1150 &ndash;&nbsp;<a class="mw-redirect" title="Ibn Zuhr, aka 'Avenzoar&quot;" href="https://en.wikipedia.org/wiki/Ibn_Zuhr,_aka_%27Avenzoar%22">Ibn Zuhr, aka 'Avenzoar"</a>&nbsp;(Seville, Spain), a Muslim Arab physician and surgeon, gave the first accurate descriptions on certain&nbsp;<a class="mw-redirect" title="Neurological" href="https://en.wikipedia.org/wiki/Neurological">neurological</a>&nbsp;disorders such as&nbsp;<a title="Meningitis" href="https://en.wikipedia.org/wiki/Meningitis">meningitis</a>, intracranial&nbsp;<a title="Thrombophlebitis" href="https://en.wikipedia.org/wiki/Thrombophlebitis">thrombophlebitis</a>, and&nbsp;<a title="Mediastinal germ cell tumor" href="https://en.wikipedia.org/wiki/Mediastinal_germ_cell_tumor">mediastinal germ cell tumors</a>.</li>
 <li>c. 1150 &ndash;&nbsp;<a title="Averroes" href="https://en.wikipedia.org/wiki/Averroes">Averroes</a>&nbsp;suggested the existence of&nbsp;<a title="Parkinson's disease" href="https://en.wikipedia.org/wiki/Parkinson%27s_disease">Parkinson's disease</a>.</li>
-</ul>
-<ul>
+
 <li>c. 1200 &ndash;&nbsp;<a title="Maimonides" href="https://en.wikipedia.org/wiki/Maimonides">Maimonides</a>&nbsp;wrote about&nbsp;<a class="mw-redirect" title="Neuropsychiatric" href="https://en.wikipedia.org/wiki/Neuropsychiatric">neuropsychiatric</a>&nbsp;disorders and described&nbsp;<a title="Rabies" href="https://en.wikipedia.org/wiki/Rabies">rabies</a>&nbsp;and&nbsp;<a class="mw-redirect" title="Deadly nightshade" href="https://en.wikipedia.org/wiki/Deadly_nightshade">belladonna</a>&nbsp;intoxication.</li>
 </ul>
 <ul>
 <li>1403 &ndash; The&nbsp;<a title="Bethlem Royal Hospital" href="https://en.wikipedia.org/wiki/Bethlem_Royal_Hospital">Bethlem Royal Hospital of London</a>, (<em>Bedlam</em>) (established as a hospital in 1330) admitted its first mentally ill patients. The care amounted to little more than restraint.</li>
-</ul>
-<ul>
+
 <li>1567 &ndash;&nbsp;<a class="mw-redirect" title="Philippus Aureolus Theophrastus Bombastus von Hohenheim, aka &quot;Paracelsus&quot;" href="https://en.wikipedia.org/wiki/Philippus_Aureolus_Theophrastus_Bombastus_von_Hohenheim,_aka_%22Paracelsus%22">Philippus Aureolus Theophrastus Bombastus von Hohenheim, aka "Paracelsus"&nbsp;</a>(Einsiedeln, Switzerland)</li>
 </ul>
 <p>credited as providing the first clinical/scientific mention of the unconscious in his work&nbsp;<strong>Von den Krankeiten</strong>. Paracelsus called for the humane treatment of the mentally ill (but was ignored for several centuries) as he saw them not to be possessed by evil spirits, but merely 'brothers' ensnared in a treatable malady."</p>
-<h2>&nbsp;</h2>
 <ul>
 <li>1770 &ndash;&nbsp;<a title="Johann Joseph Gassner" href="https://en.wikipedia.org/wiki/Johann_Joseph_Gassner">Johann Joseph Gassner</a>&nbsp;initiated a therapeutic practice using a precursor of&nbsp;<a title="Hypnotherapy" href="https://en.wikipedia.org/wiki/Hypnotherapy">hypnotherapy</a>&nbsp;and&nbsp;<a title="Exorcism" href="https://en.wikipedia.org/wiki/Exorcism">exorcism</a>.</li>
 <li>1774 &ndash;&nbsp;<a title="Franz Mesmer" href="https://en.wikipedia.org/wiki/Franz_Mesmer">Franz Mesmer</a>&nbsp;described the therapeutic properties of "<a title="Animal magnetism" href="https://en.wikipedia.org/wiki/Animal_magnetism">animal magnetism</a>" (<a title="Hypnotherapy" href="https://en.wikipedia.org/wiki/Hypnotherapy">hypnotherapy</a>), and began a clinical practice.</li>
-</ul>
-<ul>
+
 <li>1785 &ndash;&nbsp;<a class="mw-redirect" title="Marquis de Puys&eacute;gur" href="https://en.wikipedia.org/wiki/Marquis_de_Puys%C3%A9gur">Marquis de Puys&eacute;gur</a>&nbsp;founded the&nbsp;<em>Soci&eacute;t&eacute; Harmonique des Amis R&eacute;unis</em>&nbsp;to train specialists in&nbsp;<a class="mw-redirect" title="Mesmerism" href="https://en.wikipedia.org/wiki/Mesmerism">Mesmerism</a>&nbsp;(<a title="Hypnotherapy" href="https://en.wikipedia.org/wiki/Hypnotherapy">hypnotherapy</a>).</li>
-</ul>
-<ul>
+
 <li>1793 &ndash;&nbsp;<a title="Jean-Baptiste Pussin" href="https://en.wikipedia.org/wiki/Jean-Baptiste_Pussin">Jean-Baptiste Pussin</a>, working with&nbsp;<a title="Philippe Pinel" href="https://en.wikipedia.org/wiki/Philippe_Pinel">Philippe Pinel</a>, took over France's Bicetre Hospital and began releasing incarcerated mental patients from chains and iron shackles in the first movement for the humane treatment of the mentally ill. "The Moral Treatment" included humane, non-violent, and drug-free management of mental illness.</li>
-</ul>
-<h2>&nbsp;</h2>
-<ul>
+
 <li>1801 &ndash;&nbsp;<a title="Philippe Pinel" href="https://en.wikipedia.org/wiki/Philippe_Pinel">Philippe Pinel</a>&nbsp;(France) published the first psychological approach to the treatment of the insane. The work appeared in English translation in 1806, as&nbsp;<em>Treatise on Insanity</em>.</li>
-</ul>
-<ul>
+
 <li>1813 &ndash;&nbsp;<a title="Abb&eacute; Faria" href="https://en.wikipedia.org/wiki/Abb%C3%A9_Faria">Abb&eacute; Faria</a>&nbsp;identified the central role of suggestion in "<a title="Animal magnetism" href="https://en.wikipedia.org/wiki/Animal_magnetism">animal magnetism</a>" (<a title="Hypnotherapy" href="https://en.wikipedia.org/wiki/Hypnotherapy">hypnotherapy</a>).</li>
-</ul>
-<ul>
+
 <li>1826 &ndash;&nbsp;<a title="Justinus Kerner" href="https://en.wikipedia.org/wiki/Justinus_Kerner">Justinus Kerner</a>&nbsp;began treatment of patients with a combination of "<a title="Animal magnetism" href="https://en.wikipedia.org/wiki/Animal_magnetism">animal magnetism</a>" (<a title="Hypnotherapy" href="https://en.wikipedia.org/wiki/Hypnotherapy">hypnotherapy</a>) and&nbsp;<a title="Exorcism" href="https://en.wikipedia.org/wiki/Exorcism">exorcism</a>.</li>
-</ul>
-<ul>
+
 <li>1870 &ndash;&nbsp;<a title="Jean-Martin Charcot" href="https://en.wikipedia.org/wiki/Jean-Martin_Charcot">Jean-Martin Charcot</a>&nbsp;began clinical research into hysteria (<a title="Conversion disorder" href="https://en.wikipedia.org/wiki/Conversion_disorder">conversion disorder</a>) at the&nbsp;<a class="mw-redirect" title="Salp&ecirc;tri&egrave;re" href="https://en.wikipedia.org/wiki/Salp%C3%AAtri%C3%A8re">Salp&ecirc;tri&egrave;re</a>&nbsp;Hospital in Paris.</li>
-</ul>
-<ul>
+
 <li>1884 &ndash;&nbsp;<a title="Jean-Martin Charcot" href="https://en.wikipedia.org/wiki/Jean-Martin_Charcot">Jean-Martin Charcot</a>&nbsp;explained demonic possession as a form of hysteria (<a title="Conversion disorder" href="https://en.wikipedia.org/wiki/Conversion_disorder">conversion disorder</a>), to be treated with&nbsp;<a title="Hypnotherapy" href="https://en.wikipedia.org/wiki/Hypnotherapy">hypnotherapy</a>.</li>
 <li>1885 &ndash;&nbsp;<a title="Pierre Janet" href="https://en.wikipedia.org/wiki/Pierre_Janet">Pierre Janet</a>&nbsp;began therapeutic practice and research in&nbsp;<a title="Le Havre" href="https://en.wikipedia.org/wiki/Le_Havre">Le Havre</a>.</li>
 <li>1886 &ndash;&nbsp;<a title="Sigmund Freud" href="https://en.wikipedia.org/wiki/Sigmund_Freud">Sigmund Freud</a>&nbsp;began therapeutic practice and research in&nbsp;<a title="Vienna" href="https://en.wikipedia.org/wiki/Vienna">Vienna</a>.</li>
-</ul>
-<ul>
+
 <li>1892 &ndash; Foundation of the&nbsp;<a title="American Psychological Association" href="https://en.wikipedia.org/wiki/American_Psychological_Association">American Psychological Association</a>&nbsp;(APA), headed by&nbsp;<a title="G. Stanley Hall" href="https://en.wikipedia.org/wiki/G._Stanley_Hall">G. Stanley Hall</a>.</li>
 <li>1896 &ndash; Development of the first psychological clinic at the&nbsp;<a title="University of Pennsylvania" href="https://en.wikipedia.org/wiki/University_of_Pennsylvania">University of Pennsylvania</a>, marking the birth of&nbsp;<a title="Clinical psychology" href="https://en.wikipedia.org/wiki/Clinical_psychology">clinical psychology</a>.</li>
 <li>1898 &ndash;&nbsp;<a title="Boris Sidis" href="https://en.wikipedia.org/wiki/Boris_Sidis">Boris Sidis</a>&nbsp;publishes&nbsp;<em>The Psychology of Suggestion: A Research into the Subconscious Nature of Man and Society</em>.</li>
-</ul>
-<h2>&nbsp;</h2>
-<ul>
+
 <li>1900 &ndash; Sigmund Freud published&nbsp;<em>Interpretation of Dreams</em>, marking the beginning of&nbsp;<a class="mw-redirect" title="Psychoanalytic" href="https://en.wikipedia.org/wiki/Psychoanalytic">Psychoanalytic</a>&nbsp;Thought.</li>
 <li>1902 - In the autumn the Wednesday Psychological Society (<em>Psychologische Mittwochs-Gesellschaft</em>) started meeting in Freud's apartment in Vienna, marking the beginnings of the worldwide psychoanalytic movement.</li>
 <li>1906 &ndash; The&nbsp;<a title="Journal of Abnormal Psychology" href="https://en.wikipedia.org/wiki/Journal_of_Abnormal_Psychology">Journal of Abnormal Psychology</a>&nbsp;founded by&nbsp;<a title="Morton Prince" href="https://en.wikipedia.org/wiki/Morton_Prince">Morton Prince</a>&nbsp;for which&nbsp;<a title="Boris Sidis" href="https://en.wikipedia.org/wiki/Boris_Sidis">Boris Sidis</a>&nbsp;was an associate editor and significant contributor.</li>
@@ -70,8 +52,7 @@
 <li>1906 -&nbsp;<a title="Carl Jung" href="https://en.wikipedia.org/wiki/Carl_Jung">Carl Jung</a>&nbsp;began correspondence with Freud.</li>
 <li>1907 - Jung and his wife,&nbsp;<a title="Emma Jung" href="https://en.wikipedia.org/wiki/Emma_Jung">Emma</a>&nbsp;travelled to Vienna to meet with Freud.</li>
 <li>1909 -&nbsp;<a class="mw-redirect" title="Sandor Ferenczi" href="https://en.wikipedia.org/wiki/Sandor_Ferenczi">Sandor Ferenczi</a>, Freud and Jung travelled together to the&nbsp;<a title="United States" href="https://en.wikipedia.org/wiki/United_States">United States</a>&nbsp;to participate in the&nbsp;<a title="Clark University" href="https://en.wikipedia.org/wiki/Clark_University">Clark University</a>&nbsp;conference.</li>
-</ul>
-<ul>
+
 <li>1910 - Freud proposes Jung as his "eldest son and heir" to his new science.</li>
 <li>1910 &ndash;&nbsp;<a title="Boris Sidis" href="https://en.wikipedia.org/wiki/Boris_Sidis">Boris Sidis</a>&nbsp;opens the Sidis Psychotherapeutic Institute (a private hospital) at Maplewood Farms in Portsmouth, NH for the treatment of nervous patients using the latest scientific methods.</li>
 <li>1911 &ndash;&nbsp;<a title="Alfred Adler" href="https://en.wikipedia.org/wiki/Alfred_Adler">Alfred Adler</a>&nbsp;left Freud's Psychoanalytic Group to form his own school of thought,&nbsp;<a class="mw-redirect" title="Individual Psychology" href="https://en.wikipedia.org/wiki/Individual_Psychology">Individual Psychology</a>, accusing Freud of overemphasizing sexuality and basing his theory on his own childhood.</li>
@@ -80,25 +61,21 @@
 <li>1913 &ndash;&nbsp;<a title="Jacob L. Moreno" href="https://en.wikipedia.org/wiki/Jacob_L._Moreno">Jacob L. Moreno</a>&nbsp;applied&nbsp;<a class="mw-redirect" title="Group therapy" href="https://en.wikipedia.org/wiki/Group_therapy">Group Psychotherapy</a>&nbsp;methods in Vienna. His methods, which emphasized spontaneity and interaction, later became known as&nbsp;<a title="Psychodrama" href="https://en.wikipedia.org/wiki/Psychodrama">Psychodrama</a>&nbsp;and&nbsp;<a title="Sociometry" href="https://en.wikipedia.org/wiki/Sociometry">Sociometry</a>.</li>
 <li>1914 &ndash;&nbsp;<a title="Boris Sidis" href="https://en.wikipedia.org/wiki/Boris_Sidis">Boris Sidis</a>&nbsp;publishes&nbsp;<em><a class="extiw" title="s:The Foundations of Normal and Abnormal Psychology" href="https://en.wikisource.org/wiki/The_Foundations_of_Normal_and_Abnormal_Psychology">The Foundations of Normal and Abnormal Psychology</a></em>&nbsp;where he provides the scientific foundation for the field of psychology, and details his theory of the&nbsp;<em>moment-consciousness</em>.</li>
 <li>1919 - The&nbsp;<a title="British Psychoanalytical Society" href="https://en.wikipedia.org/wiki/British_Psychoanalytical_Society">British Psychoanalytical Society</a>&nbsp;established by&nbsp;<a title="Ernest Jones" href="https://en.wikipedia.org/wiki/Ernest_Jones">Ernest Jones</a>&nbsp;in&nbsp;<a title="London" href="https://en.wikipedia.org/wiki/London">London</a>.</li>
-</ul>
-<ul>
+
 <li>1921 &ndash;&nbsp;<a title="Jacob L. Moreno" href="https://en.wikipedia.org/wiki/Jacob_L._Moreno">Jacob L. Moreno</a>&nbsp;conducted the first large scale public&nbsp;<a title="Psychodrama" href="https://en.wikipedia.org/wiki/Psychodrama">Psychodrama</a>&nbsp;session at the Komoedienhaus, Vienna. He moved to New York in 1925.</li>
 <li>1922 &ndash;&nbsp;<a title="Boris Sidis" href="https://en.wikipedia.org/wiki/Boris_Sidis">Boris Sidis</a>&nbsp;publishes&nbsp;<em>Nervous Ills: Their Cause and a Cure</em>, a popularization of his work concerning the subconscious and the treatment of psychopathic disease.</li>
-</ul>
-<ul>
+
 <li>1933 &ndash;&nbsp;<a title="Wilhelm Reich" href="https://en.wikipedia.org/wiki/Wilhelm_Reich">Wilhelm Reich</a>&nbsp;published his influential book&nbsp;<em>Character Analysis</em>&nbsp;giving his view that a person's entire character, not only individual symptoms, could be looked at and treated as a neurotic phenomenon. The book also introduced his theory of body armoring.</li>
 <li>1936 &ndash;&nbsp;<a title="Karen Horney" href="https://en.wikipedia.org/wiki/Karen_Horney">Karen Horney</a>&nbsp;began her critique of Freudian psychoanalytic theory with the publication of&nbsp;<em>Feminine Psychology</em>.</li>
 <li>1936 &ndash;&nbsp;<a title="Saul Rosenzweig" href="https://en.wikipedia.org/wiki/Saul_Rosenzweig">Saul Rosenzweig</a>&nbsp;published his article&nbsp;<em>Some Implicit Common Factors in Diverse Methods of Psychotherapy</em>, in which he argued that common factors, rather than speific ingredients, cause change in psychotherapy.</li>
-</ul>
-<ul>
+
 <li>1942 &ndash;&nbsp;<a title="Carl Rogers" href="https://en.wikipedia.org/wiki/Carl_Rogers">Carl Rogers</a>&nbsp;published&nbsp;<em>Counseling and Psychotherapy</em>, suggesting that respect and a non-judgmental approach to therapy is the foundation for effective treatment of&nbsp;<a title="Mental health" href="https://en.wikipedia.org/wiki/Mental_health">mental health</a>&nbsp;issues.</li>
 <li>1943 &ndash;&nbsp;<a title="Albert Hofmann" href="https://en.wikipedia.org/wiki/Albert_Hofmann">Albert Hofmann</a>&nbsp;writes his first report about the hallucinogenic properties of LSD, which he first synthesized in 1938. LSD was practiced as a therapeutic drug throughout the 1950s and 1960s.</li>
 <li>1945 -&nbsp;<a title="Society of Analytical Psychology" href="https://en.wikipedia.org/wiki/Society_of_Analytical_Psychology">Society of Analytical Psychology</a>&nbsp;incorporated in&nbsp;<a title="London" href="https://en.wikipedia.org/wiki/London">London</a></li>
 <li>1945 &ndash;&nbsp;<a title="Orval Hobart Mowrer" href="https://en.wikipedia.org/wiki/Orval_Hobart_Mowrer">Orval Hobart Mowrer</a>&nbsp;founded Integrity Groups therapy.</li>
 <li>1945 &ndash; The&nbsp;<em>Journal of Clinical Psychology</em>&nbsp;was founded.</li>
 <li>1949 &ndash; The Boulder Conference outlined the&nbsp;<a class="mw-redirect" title="Scientist-Practitioner Model of Clinical Psychology" href="https://en.wikipedia.org/wiki/Scientist-Practitioner_Model_of_Clinical_Psychology">scientist-practitioner model of clinical psychology</a>, looking at the master's degree versus PhD used by medical providers and researchers, respectively.</li>
-</ul>
-<ul>
+
 <li>1951 &ndash; Carl Rogers published his major work,&nbsp;<em><a class="mw-redirect" title="Client-Centered Therapy" href="https://en.wikipedia.org/wiki/Client-Centered_Therapy">Client-Centered Therapy</a></em>.</li>
 <li>1951 &ndash; The seminal work of&nbsp;<em>"<a class="mw-redirect" title="Gestalt Therapy" href="https://en.wikipedia.org/wiki/Gestalt_Therapy">Gestalt Therapy</a>: Excitement and Growth in the Human Personality"</em>&nbsp;is published, co-authored by&nbsp;<a title="Fritz Perls" href="https://en.wikipedia.org/wiki/Fritz_Perls">Fritz Perls</a>,&nbsp;<a class="mw-redirect" title="Paul Goodman (writer)" href="https://en.wikipedia.org/wiki/Paul_Goodman_(writer)">Paul Goodman</a>, and Ralph Hefferline.</li>
 <li>1951 - The&nbsp;<a title="British Psychotherapy Foundation" href="https://en.wikipedia.org/wiki/British_Psychotherapy_Foundation">Association of Psychotherapists</a>&nbsp;established in London.</li>
@@ -108,8 +85,7 @@
 <li>1954 &ndash;&nbsp;<a title="Abraham Maslow" href="https://en.wikipedia.org/wiki/Abraham_Maslow">Abraham Maslow</a>&nbsp;helped to found&nbsp;<a title="Humanistic psychology" href="https://en.wikipedia.org/wiki/Humanistic_psychology">Humanistic psychology</a>&nbsp;and later developed his famous&nbsp;<a title="Maslow's hierarchy of needs" href="https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs">Hierarchy of Needs</a>.</li>
 <li>1955 &ndash;&nbsp;<a class="mw-redirect" title="Albert Ellis (psychologist)" href="https://en.wikipedia.org/wiki/Albert_Ellis_(psychologist)">Albert Ellis</a>&nbsp;began teaching the methods of&nbsp;<a class="mw-redirect" title="Rational Emotive Behavior Therapy" href="https://en.wikipedia.org/wiki/Rational_Emotive_Behavior_Therapy">Rational Emotive Behavior Therapy</a>&nbsp;the first form of cognitive psychotherapy.</li>
 <li>1959 &ndash;&nbsp;<a title="Viktor Frankl" href="https://en.wikipedia.org/wiki/Viktor_Frankl">Viktor Frankl</a>&nbsp;published the first English edition of&nbsp;<em><a title="Man's Search for Meaning" href="https://en.wikipedia.org/wiki/Man%27s_Search_for_Meaning">Man's Search for Meaning</a></em>&nbsp;[with a preface by&nbsp;<a title="Gordon Allport" href="https://en.wikipedia.org/wiki/Gordon_Allport">Gordon Allport</a>], which provided an existential account of his Holocaust experience and an overview of his system of&nbsp;<a title="Existential therapy" href="https://en.wikipedia.org/wiki/Existential_therapy">existential analysis</a>&nbsp;called&nbsp;<a title="Logotherapy" href="https://en.wikipedia.org/wiki/Logotherapy">Logotherapy</a>.</li>
-</ul>
-<ul>
+
 <li>1960 &ndash;&nbsp;<a title="Thomas Szasz" href="https://en.wikipedia.org/wiki/Thomas_Szasz">Thomas Szasz</a>&nbsp;inaugurated the&nbsp;<a title="Anti-psychiatry" href="https://en.wikipedia.org/wiki/Anti-psychiatry">anti-psychiatry</a>&nbsp;movement with the publication of his book,&nbsp;<em><a title="The Myth of Mental Illness" href="https://en.wikipedia.org/wiki/The_Myth_of_Mental_Illness">The Myth of Mental Illness</a></em>.</li>
 <li>1960 &ndash;&nbsp;<a class="mw-redirect" title="Ronald David Laing" href="https://en.wikipedia.org/wiki/Ronald_David_Laing">R. D. Laing</a>&nbsp;published&nbsp;<em>The Divided Self</em>&nbsp;which saw mental illness as an expression or communication of the individual and so represented valid descriptions of lived experience or reality rather than as symptoms of some separate or underlying disorder.</li>
 <li>1962 &ndash; The&nbsp;<a title="Esalen Institute" href="https://en.wikipedia.org/wiki/Esalen_Institute">Esalen Institute</a>&nbsp;founded at Big Sur California, acting as a focus for the development of many branches of&nbsp;<a title="Humanistic psychology" href="https://en.wikipedia.org/wiki/Humanistic_psychology">Humanistic psychology</a>.</li>
@@ -118,26 +94,20 @@
 <li>1968 &ndash; DSM II published by the American Psychiatric Association.</li>
 <li>1969 &ndash;&nbsp;<a title="California School of Professional Psychology" href="https://en.wikipedia.org/wiki/California_School_of_Professional_Psychology">California School of Professional Psychology</a>&nbsp;established as first freestanding school of professional psychology.</li>
 <li>1969 &ndash;&nbsp;<a title="Joseph Wolpe" href="https://en.wikipedia.org/wiki/Joseph_Wolpe">Joseph Wolpe</a>&nbsp;published&nbsp;<em>The Practice of Behavior Therapy</em>.</li>
-</ul>
-<ul>
+
 <li>1970 &ndash;&nbsp;<a title="Arthur Janov" href="https://en.wikipedia.org/wiki/Arthur_Janov">Arthur Janov</a>&nbsp;published his book&nbsp;<em><a title="The Primal Scream" href="https://en.wikipedia.org/wiki/The_Primal_Scream">The Primal Scream</a></em>, which outlined his theory of the trauma-based&nbsp;<a title="Primal therapy" href="https://en.wikipedia.org/wiki/Primal_therapy">Primal therapy</a>.</li>
 <li>1971 &ndash;&nbsp;<a title="Vladimir Bukovsky" href="https://en.wikipedia.org/wiki/Vladimir_Bukovsky">Vladimir Bukovsky</a>&nbsp;documented the&nbsp;<a class="mw-redirect" title="Psychiatric imprisonment" href="https://en.wikipedia.org/wiki/Psychiatric_imprisonment">psychiatric imprisonment</a>&nbsp;of political prisoners in the&nbsp;<a class="mw-redirect" title="USSR" href="https://en.wikipedia.org/wiki/USSR">USSR</a>.</li>
-</ul>
-<ul>
+
 <li>1980 &ndash; DSM III is published by the American Psychiatric Association.</li>
 <li>1987 &ndash; DSM III-R is published by the American Psychiatric Association.</li>
-</ul>
-<ul>
+
 <li>1990 &ndash;&nbsp;<a title="Michael White (psychotherapist)" href="https://en.wikipedia.org/wiki/Michael_White_(psychotherapist)">Michael White</a>&nbsp;and&nbsp;<a title="David Epston" href="https://en.wikipedia.org/wiki/David_Epston">David Epston</a>&nbsp;publish&nbsp;<em>Narrative Means to Therapeutic Ends</em>, the first major text in what later comes to be known as&nbsp;<a title="Narrative therapy" href="https://en.wikipedia.org/wiki/Narrative_therapy">narrative therapy</a>.</li>
 <li>1991 &ndash; The&nbsp;<a title="American Psychoanalytic Association" href="https://en.wikipedia.org/wiki/American_Psychoanalytic_Association">American Psychoanalytic Association</a>&nbsp;passed a resolution opposing "public or private discrimination" against homosexuals. It stopped short, however, of agreeing to open its training institutes to these individuals.</li>
 <li>1992 &ndash; The&nbsp;<a title="American Psychoanalytic Association" href="https://en.wikipedia.org/wiki/American_Psychoanalytic_Association">American Psychoanalytic Association</a>&nbsp;extended the provisions of its 1991 resolution (see above) to training candidates at its affiliated institutes.</li>
 <li>1994 &ndash; DSM IV (The Diagnostic and Statistical Manual of Mental Disorders) published by the American Psychiatric Association.</li>
 <li>1997 &ndash; The&nbsp;<a title="American Psychoanalytic Association" href="https://en.wikipedia.org/wiki/American_Psychoanalytic_Association">American Psychoanalytic Association</a>&nbsp;became the first national mental health organization to support same-sex marriage.</li>
-</ul>
-<h2>&nbsp;</h2>
-<ul>
+
 <li>2000 &ndash; The DSM-IV-TR, was published in May 2000 in order to correct several errors in DSM-IV, and to update and change diagnostic codes to reflect the&nbsp;<a class="mw-redirect" title="ICD" href="https://en.wikipedia.org/wiki/ICD">ICD-9-CM</a>&nbsp;coding system.</li>
-</ul>
-<ul>
+
 <li>2013 &ndash; The Fifth Edition of the Diagnostic and Statistical Manual of Mental Disorders (DSM-5) was released at the American Psychiatric Association&rsquo;s Annual Meeting in May 2013, marking the end of more than a decade&rsquo;s journey in revising the criteria for the diagnosis and classification of mental disorders.</li>
 </ul>
